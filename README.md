@@ -4,6 +4,19 @@
 
 ---
 
+## 📥 Download & Installation
+
+You can download the latest signed APK directly from the **[Releases](../../releases)** page:
+
+1. Go to the **[Releases](../../releases)** tab of this repository.
+2. Download the latest signed `.apk` file (`ns-spendly-app-release-version.apk`).
+3. Tap the downloaded file on your Android device to install (you may need to allow installation from unknown sources if prompted).
+4. Open **NS Vault** and enjoy secure, offline-first personal data management!
+
+> **Note:** New updates, features, and security patches will be published regularly via GitHub Releases. Watch or star the repository to stay notified of updates!
+
+---
+
 ## 🚀 Key Features
 
 - **Dashboard**: Get an instant overview of your spending summary and recent transactions.
