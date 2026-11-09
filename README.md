@@ -1,5 +1,8 @@
 # 💸 NS Spendly
 
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+
 **NS Spendly** is a sleek, modern, and privacy-focused personal expense tracker Android application built natively with **Jetpack Compose** and **Material 3**. Spendly empowers users to manage their daily finances effortlessly, categorize expenses, analyze spending trends, and maintain complete ownership of their financial data securely on their device.
 
 ---
@@ -11,7 +14,7 @@ You can download the latest signed APK directly from the **[Releases](../../rele
 1. Go to the **[Releases](../../releases)** tab of this repository.
 2. Download the latest signed `.apk` file (`ns-spendly-app-release-version.apk`).
 3. Tap the downloaded file on your Android device to install (you may need to allow installation from unknown sources if prompted).
-4. Open **NS Vault** and enjoy secure, offline-first personal data management!
+4. Open **NS Spendly** and enjoy secure, offline-first personal data management!
 
 > **Note:** New updates, features, and security patches will be published regularly via GitHub Releases. Watch or star the repository to stay notified of updates!
 
